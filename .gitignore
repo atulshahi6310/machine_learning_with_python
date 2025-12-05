@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.h5
+*.joblib
+
+# Datasets
+data/
+dataset/
+*.csv
+*.xlsx
+
+# VS Code
+.vscode/
